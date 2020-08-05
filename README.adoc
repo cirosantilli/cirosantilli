@@ -11,16 +11,18 @@
 :toclevels: 6
 :toc-title:
 
-These are Ciro Santilli's most important repos:
+Ciro Santilli's homepage is: https://cirosantilli.com
+
+Ciro's most important repositories are:
 
 * https://github.com/cirosantilli/linux-kernel-module-cheat[Linux Kernel Module Cheat]: the ultimate emulation-based systems programming setup/cheatsheet
 * https://github.com/cirosantilli/china-dictatorship[China Dictatorship]: casually trying to destroy the Chinese Communist Party and save the world
 * https://github.com/cirosantilli/x86-bare-metal-examples[x86 Bare Metal Examples]: should be merged into Linux Kernel Module Cheat, but lazy
-* https://github.com/cirosantilli/cirodown[Cirodown]: the ultimate markup language
+* https://github.com/cirosantilli/cirodown[Cirodown]: the ultimate markup language to write complex scientific books
 * https://github.com/cirosantilli/cirosantilli.github.io[cirosantilli.github.io]: the source for https://cirosantilli.com
 * https://github.com/cirosantilli/write-free-science-books-to-get-famous-website[Write Free Books to Get Famous Website]: an idea to destroy the University system
 
-And here you can find his most starred repos: https://github.com/search?o=desc&q=user%3Acirosantilli&s=stars&type=Repositories Some are abandoned/merged into other repos as per their description.
+Ciro's most starred repos: https://github.com/search?o=desc&q=user%3Acirosantilli&s=stars&type=Repositories Some are abandoned/merged into other repos as per their description.
 
 And now here is a manual (and therefore out-of-date) copy of https://github.com/cirosantilli/china-dictatorship[China Dictatorship] just as a test to see what will happen if a profile README gets added to https://github.com/github/gov-takedowns[].
 
