@@ -49,7 +49,7 @@ https://cirosantilli.com/cirosantilli/china-dictatorship#falun-gong
 
 image::https://web.archive.org/web/20200315112422if_/https://img.theepochtimes.com/assets/uploads/2017/05/10/GuangzhouPractice_big-700x420.jpg[height=600]
 
-image::https://upload.wikimedia.org/wikipedia/commons/8/8a/TAM_Arrest4.jpg[height=600]
+image::https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Falun_Gong_lady_silenced.jpg[height=600]
 
 **新疆改造中心 Xinjiang re-education camps 2018**
 
@@ -175,7 +175,7 @@ https://cirosantilli.com/cirosantilli/china-dictatorship#falun-gong
 
 image::https://web.archive.org/web/20200315112422if_/https://img.theepochtimes.com/assets/uploads/2017/05/10/GuangzhouPractice_big-700x420.jpg[height=600]
 
-image::https://upload.wikimedia.org/wikipedia/commons/8/8a/TAM_Arrest4.jpg[height=600]
+image::https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Falun_Gong_lady_silenced.jpg[height=600]
 
 **新疆改造中心 Xinjiang re-education camps 2018**
 
