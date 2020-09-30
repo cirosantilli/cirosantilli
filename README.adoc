@@ -1,5 +1,6 @@
 = Ciro Santilli's GitHub Profile
-:cirosantilli-media-base: https://raw.githubusercontent.com/cirosantilli/media/master/
+:china-dictatorship-media-base: https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master
+:cirosantilli-media-base: https://raw.githubusercontent.com/cirosantilli/media/master
 :docinfo: private-head
 :idprefix:
 :idseparator: -
@@ -37,89 +38,89 @@ Music!
 * https://youtu.be/-JTWXqUPQ7I[Joan Baez - China]
 * https://youtu.be/6OOlXJs4I8k[Philip Morgan - Blood is on the square]
 
-image::https://web.archive.org/web/20190816074546im_/https://cdn.theatlantic.com/assets/media/img/photo/2014/06/tiananmen-square-25-years-ago/t04_52017200/main_1200.jpg?1420497899[height=400]
+image::{china-dictatorship-media-base}/Tiananmen_students_sitting.jpg[height=400]
 
-image::https://web.archive.org/web/20190808091019im_/http://s.wsj.net/public/resources/images/BN-CZ715_tam2_G_20140529081612.jpg[height=400]
+image::{china-dictatorship-media-base}/Tank_Man.jpg[height=400]
 
-image::https://web.archive.org/web/20200711004224im_/http://www.ursulagauthier.fr/wp-content/uploads/2014/10/Tiananmen-8-692x1024.jpg[height=600]
+image::{china-dictatorship-media-base}/Tianmen_crushed_dead.jpg[height=600]
 
 **法轮功 Falun Gong 1999 70M believer religion banned**
 
 https://cirosantilli.com/cirosantilli/china-dictatorship#falun-gong
 
-image::https://web.archive.org/web/20200315112422if_/https://img.theepochtimes.com/assets/uploads/2017/05/10/GuangzhouPractice_big-700x420.jpg[height=600]
+image::{china-dictatorship-media-base}/Falun_Gong_Ghuangzhou.jpg[height=600]
 
-image::https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Falun_Gong_lady_silenced.jpg[height=600]
+image::{china-dictatorship-media-base}/Falun_Gong_lady_silenced.jpg[height=600]
 
 **新疆改造中心 Xinjiang re-education camps 2018**
 
 https://cirosantilli.com/china-dictatorship#xinjiang
 
-image::https://web.archive.org/web/20191107091847/https://www.rfa.org/english/news/uyghur/camp-photo-04262019171258.html/uyghur-photo.jpg/@@images/58e9361a-f0e3-4886-a80a-6c9668ee678f.jpeg[height=400]
+image::{china-dictatorship-media-base}/Xinjiang_prisoners_sitting_identified.jpeg[height=400]
 
-image::https://ia601505.us.archive.org/27/items/cirosantilli/Video_still_of_2019-10_drone_footage_of_blindfolded_Xinjiang_prisoners_being_marched_taken_at_time_00%3A30.png[height=400]
+image::{china-dictatorship-media-base}/Xinjiang_prisoners_march.jpg[height=400]
 
-image::https://web.archive.org/web/20200823174155im_/https://s3-ap-southeast-2.amazonaws.com/ad-aspi/2020-02/ufs-fig8.jpg[height=500]
+image::{china-dictatorship-media-base}/Uyghur_sale_website.jpg[height=500]
 
-image::https://web.archive.org/web/20191013085312if_/https://i.stack.imgur.com/mQFKa.png[height=600]
+image::{china-dictatorship-media-base}/Xinjiang_camp_in_camp.jpg[height=600]
 
 **小熊维尼 Winnie the Pooh 2018**
 
 https://cirosantilli.com/china-dictatorship#winnie-the-pooh
 
-image::https://web.archive.org/web/20170801011641if_/http://i.telegraph.co.uk/multimedia/archive/02590/TIGGER_2590531b.jpg[height=400]
+image::{china-dictatorship-media-base}/Xi_Pooh_Obama.webp[height=400]
 
-image::https://web.archive.org/web/20191012100528im_/https://i.guim.co.uk/img/media/84b60992d857bccf54c384e4ebeb0ea7f207246b/37_0_752_451/master/752.jpg?width=620&quality=85&auto=format&fit=max&s=e33410b2fb10c3d6de6a6ed65b6a7d8e[height=400]
+image::{china-dictatorship-media-base}/Xi_Abe_Pooh.webp[height=400]
 
-image::https://web.archive.org/web/20200806133204im_/https://www.telegraph.co.uk/content/dam/news/2018/02/26/TELEMMGLPICT000155655751_trans_NvBQzQNjv4BqzjD0Mh_LNt5Bhy1HYuGzFnpm3nqQSSR1BkomPrzwAI0.jpeg?imwidth=1400[height=400]
+image::{china-dictatorship-media-base}/Xi_Jinping_heart.jpeg[height=400]
 
 **郝海东 Hao Haidong Chinese soccer superstar turns against the CCP 2020**
 
 https://cirosantilli.com/china-dictatorship#hao-haidong
 
-image::https://web.archive.org/web/20200614100726if_/https://i.stack.imgur.com/sbraK.jpg[height=500]
+image::{china-dictatorship-media-base}/Hao_Haidong_kick.jpg[height=500]
 
 **冠状病毒审查 Censorship of the 2019 Corona Virus**
 
 https://cirosantilli.com/china-dictatorship#corona
 
-image::https://web.archive.org/web/20200209173001im_/https://ichef.bbci.co.uk/news/320/cpsprodpb/10FFE/production/_110803696_drli1.jpg[height=400]
+image::{china-dictatorship-media-base}/Li_Wenliang_covid.jpg[height=400]
 
 **基督迫害 Christian persecution 2018**
 
 https://cirosantilli.com/china-dictatorship#christianity
 
-image::https://web.archive.org/web/20191013080937if_/https://image.businessinsider.com/5a572ca3a75e205e138b4b5f?width=1300&format=jpeg&auto=webp[height=400]
+image::{china-dictatorship-media-base}/Church_demolition.jpg[height=400]
 
-image::https://web.archive.org/web/20191107094724if_/http://4.bp.blogspot.com/_W8pwMnZMNuQ/S5YAJmo1Q1I/AAAAAAAAC_A/YKRCKXUiSAM/s1600/meal.jpg[height=400]
+image::{china-dictatorship-media-base}/Last_Supper_Mao.jpg[height=400]
 
-image::https://web.archive.org/web/20180930134934im_/https://www.rfa.org/english/cartoons/vatican-china-cartoon-09282018102133.html/180927RFA-vatican-china.jpg/@@images/190bb54e-d6be-4c98-9599-b4a88aa6b959.jpeg[height=400]
+image::{china-dictatorship-media-base}/Pope_CCP_deal.jpeg[height=400]
 
 **LGBT权利 The suppression of homosexuality**
 
 https://cirosantilli.com/china-dictatorship#gay-rights
 
-image::https://web.archive.org/web/20200301223317im_/http://www.chinatoday.com/entertain/china.funny.pictures/tiananmen.kiss_1.jpg[height=500]
+image::{china-dictatorship-media-base}/Tianmen_lesbian_kiss.jpg[height=500]
 
-image::https://web.archive.org/web/20200315112421if_/https://i.guim.co.uk/img/media/e46c18a434972d717b3aa03e8ea4ef835d1c1e31/318_0_1809_1086/master/1809.jpg?width=620&quality=85&auto=format&fit=max&s=f358c97022133c523489fa55dbe7273b[height=400]
+image::{china-dictatorship-media-base}/Addicted_bed.jpg[height=400]
 
 **996.ICU**
 
 https://cirosantilli.com/cirosantilli/china-dictatorship#nine-nine-six-icu
 
-image::https://web.archive.org/web/20191023085035/https://avatars3.githubusercontent.com/u/48942249[height=400]
+image::{china-dictatorship-media-base}/996ICU.png[height=400]
 
 **Gay Putin**
 
 https://cirosantilli.com/china-dictatorship#gay-putin
 
-image::https://web.archive.org/web/20200312233919if_/https://cdn1.i-scmp.com/sites/default/files/styles/1200x800/public/images/methode/2017/04/06/0a2ae706-1a94-11e7-b4ed-ac719e54b474_1280x720_145124.jpg[height=400]
+image::{china-dictatorship-media-base}/Gay_Putin.jpg[height=400]
 
 **Vajiralongkorn Hamtaro**
 
 https://cirosantilli.com/china-dictatorship#thai-king-hamtaro
 
-image::https://raw.githubusercontent.com/cirosantilli/media/master//Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
+image::{china-dictatorship-media-base}/Side_by_side_comparison_between_Thai_king_Vajiralongkorn_and_Hamtaro.jpg[height=400]
 
 == Full copy of China Dictatorship 中国独裁统治
 
