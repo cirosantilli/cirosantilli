@@ -14,6 +14,8 @@
 
 Ciro Santilli's homepage is: https://cirosantilli.com
 
+Sponsor Ciro at https://cirosantilli.com/sponsor so he can work full time on: https://github.com/cirosantilli/write-free-science-books-to-get-famous-website and on writing amazing university-level natural science and technology tutorials for all ages to revolutionize education. More info at: https://cirosantilli.com/sponsor
+
 Ciro's most important repositories are:
 
 * https://github.com/cirosantilli/linux-kernel-module-cheat[*Linux Kernel Module Cheat*]: the ultimate emulation-based systems programming setup/cheatsheet
@@ -807,7 +809,11 @@ image::{cirosantilli-media-base}/Rebel_pepper_pig_can%27t_eat_democracy_cartoon_
 [[corruption]]
 ==== Democracies have less corruption than dictatorships
 
-One of the key points of <<xi-jinping,Xi Jinping's>> governments has been to quench corruption. And use that as an excuse to get rid of rivals while at it.
+One of the key points of <<xi-jinping,Xi Jinping's>> governments has been to quench corruption.
+
+And use that as an excuse to get rid of rivals while at it.
+
+This reminds <<ciro-santilli>> of crime series like Breaking Bad. You end up trusting other criminals because they have dirt on them, and a lot to lose. And if they mess with you, you can always turn them in.
 
 However, there is one much better solution to that: democracy and freedom of speech.
 
@@ -819,10 +825,12 @@ ____
 Democracy substitutes election <<uneducated-masses,by the incompetent many>> for appointment by the corrupt few.
 ____
 
-Well known corruption cases:
+Well known corruption related cases:
 
+* 2020-09 Ren Zhiqiang
+** https://www.npr.org/2020/09/22/915558372/prominent-critic-of-xi-jinping-and-communist-party-sentenced-to-18-years-in-pris "Prominent Critic Of Xi Jinping And Communist Party Sentenced To 18 Years In Prison"
 * 2012 https://en.wikipedia.org/wiki/Ling_Jihua[Ling Jihua] (https://zh.wikipedia.org/wiki/令计划[令计划]): son died in Ferrari crash with two women on the car, which put the spotlight on him
-* 2012 https://en.wikipedia.org/wiki/Bo_Xilai[Bo Xilai] (https://zh.wikipedia.org/wiki/薄熙来[薄熙来]): trigerred by the murder of https://en.wikipedia.org/wiki/Neil_Heywood[Neil Heywood], of which Bo's wife was accused
+* 2012 https://en.wikipedia.org/wiki/Bo_Xilai[Bo Xilai] (https://zh.wikipedia.org/wiki/薄熙来[薄熙来]): triggered by the murder of https://en.wikipedia.org/wiki/Neil_Heywood[Neil Heywood], of which Bo's wife was accused
 
 Related events:
 
@@ -832,9 +840,9 @@ Related events:
 
 https://en.wikipedia.org/wiki/Operation_Fox_Hunt
 
-Trying to prevent corruption is fine, but violating the laws of other countries in doing so, or the <<rule-of-law>> of their family is not.
+Trying to prevent corruption is fine, but violating the laws of other countries in doing so, or the <<rule-of-law>> of <<liu-changming,their family>> is not.
 
-Publicized by China itself: <<china-daily,BIASED MEDIA>> http://www.chinadaily.com.cn/china/2015-11/05/content_22375920.htm
+Publicized by the CCP itself: <<china-daily>>: http://www.chinadaily.com.cn/china/2015-11/05/content_22375920.htm
 
 [[liu-changming]]
 ====== The detention of Liu Changming's (刘昌明) family (2018)
@@ -2863,7 +2871,8 @@ NBA is huge in China.
 
 * 2019-10-07 Lakers vs. Heat NBA Tencent Live Stream cancelled due to fan wearing the <<taiwan,Taiwanese>> flag
 +
-.Fan wearing Taiwan flag in 2019-10-07 Lakers vs. Heat showing fan and text (TODO from Tencent?) saying that the match will be cancelled. https://www.reddit.com/r/China/comments/dtrx4b/tencent_nba_live_broadcast_got_cancelled_because[Source].
+[[lakers-vs-heat-taiwan-flag]]
+.Fan wearing Taiwan flag in 2019-10-07 Lakers vs. Heat showing fan and text (TODO from Tencent?) saying that the match will be cancelled. https://www.taiwannews.com.tw/en/news/3813842[Source].
 image::https://web.archive.org/web/20191109172810/https://i.redd.it/y8y7esngllx31.jpg[height=600]
 ** https://www.bbc.co.uk/news/business-49956385
 ** https://edition.cnn.com/2019/10/07/business/houston-rockets-nba-china-daryl-morey/index.html
@@ -2896,8 +2905,6 @@ In online video games:
 * 2020-04-08 https://www.bloomberg.com/news/articles/2020-04-08/nintendo-s-animal-crossing-becomes-new-hong-kong-protest-ground Animal Crossing
 * <<taiwan-number-one>>
 
-Explicitly forbidden in China by the law: <<real-username-law>>.
-
 See also: <<keyword-attack>>.
 
 ===== Appropriation attack
@@ -2913,8 +2920,8 @@ image::https://web.archive.org/web/20191013075823if_/https://pbs.twimg.com/media
 
 NBA in particular is super popular in China, and people sitting at the front row can easily bomb emissions due to the small court size:
 
-* China's Tencent halts NBA live broadcast over <<taiwan,Taiwanese>> flag
-* https://www.taiwannews.com.tw/en/news/3813842
+* 2019-10-07 <<lakers-vs-heat-taiwan-flag>>
+* 2019-10-06 https://supchina.com/2019/10/06/french-lyon-fans-angry-at-chinese-viewers-free-tibet-flag/ "French fans, angry at early start time, protest with massive Tibet flag". Olympique Lyonnais vs Nantes.
 
 Started in particular due to the <<daryl-morey-tweet>>
 
@@ -4470,6 +4477,22 @@ For more poisonings see: <<putin-sponsored-poisonings>>.
 
 The second one! The first one was in 2019, but this one is more serious, the German government said tests confirmed it unequivocally that it was Novichok, which was also recently used in <<skripal>>.
 
+ A Kremlin spokesman said https://www.dw.com/en/russia-denies-promising-navalny-poisoning-investigation/a-54875959[said] "there are no grounds to open an investigation". Therefore, this rules out the possibility of a foreign actor, because Putin would be eager to point the finger at evil foreign powers on public TV. The fact that this was done in an airport where there are cameras everywhere
+
+The only question then is:
+
+* was it Putin? Feels unlikely, as this will only make Navalny more popular
+* if it was a rogue operation without Putin's approval, then what was their motivation?
++
+Putin might not want to say that, as it would show <<superputin,internal weakness>>. However, if he doesn't admit it, it just makes Navalny more popular, he should just swallow his ego this time.
++
+The motivations of the rogue actor could be either:
++
+** Navalny had some political dirt on them and they acted alone
+** they wanted to make Navalny more popular to hurt Putin. This is consistent with the non-lethal dose.
+
+News:
+
 * 2020-09-05 https://www.bbc.co.uk/news/world-us-canada-54039710 "Alexei Navalny: Trump refuses to condemn Russia over poisoning"
 +
 ____
@@ -4478,7 +4501,7 @@ President Donald Trump has refused to condemn Russia over the poisoning of oppos
 He said the case was "tragic" but urged reporters to focus instead on China, which he said was a bigger threat to the world than Russia.
 ____
 +
-Even after Germany and NATO said it was Novichok for sure... He must be sucking <<putin>>'s cock to have more nukes pointed against China. Perhaps not a bad strategy, but does completely disregard human rights. Do <<violence,the ends justify the means>>?
+Even after Germany and NATO said it was Novichok for sure... He must be sucking <<putin>>'s cock to have more nukes pointed against China. Perhaps not a bad strategy, but does completely disregard human rights. Do <<violence,the ends justify the means>>? https://www.theguardian.com/world/2020/sep/10/pompeo-substantial-chance-senior-russian-officials-behind-alexei-navalny-poisoning[Mike Pompeo], the servant, however, spoke the obvious truth.
 * 2020-09-04 https://www.bbc.co.uk/news/world-europe-54012278 good timeline of events so far
 * 2020-09-02 https://www.nytimes.com/2020/09/02/world/europe/navalny-poison-novichok.html "Aleksei Navalny Was Poisoned With Novichok, Germany Says". Tests done on a military weapons facility, which the German government said was based on "unequivocal evidence".
 * 2020-08-24 https://www.bbc.co.uk/news/world-europe-53892900 "Alexei Navalny: Putin critic 'probably poisoned' - doctors"
@@ -5953,7 +5976,7 @@ image::https://web.archive.org/web/20200121105502if_/https://storage.googleapis.
 image::https://web.archive.org/web/20200225220314/https://pbs.twimg.com/media/BJQlSP_CQAA52BG?format=jpg[height=600]
 
 [[panama-papers]]
-==== Panama papers 巴拿马文件 (2016)
+==== Panama papers (巴拿马文件, 2016)
 
 https://en.wikipedia.org/wiki/Panama_Papers | https://zh.wikipedia.org/wiki/巴拿馬文件
 
@@ -5964,7 +5987,9 @@ Mentions <<xi-jinping>>'s brother-in-law https://en.wikipedia.org/wiki/Deng_Jiag
 See also <<ciro-santilli>>'s answer to https://www.quora.com/What-is-the-net-worth-of-Xi-Jinping/answer/Ciro-Santilli[What is the net worth of Xi Jinping?] answer on <<quora>>.
 
 [[xi-jinping-memes]]
-==== Xi Jinping memes 习近平模因
+==== Xi Jinping memes (习近平模因)
+
+Lèse-majesté, see also <<thailand>>:
 
 * 習包子: https://languagelog.ldc.upenn.edu/nll/?p=29230 says:
 +
@@ -6991,7 +7016,7 @@ The following offer interesting commentary, but not to be used as primary source
 I consider the media in this section biased, and never cite it for fact-checking.
 
 [[chinese-government-media]]
-==== Chinese government media 中国政府媒体
+==== Chinese government media (中国政府媒体)
 
 * Xinhua News Agency
 ** https://en.wikipedia.org/wiki/Xinhua_News_Agency
@@ -7020,7 +7045,7 @@ I consider the media in this section biased, and never cite it for fact-checking
 CCTV's international branch in English, China's <<voa>>.
 
 [[peoples-daily]]
-===== People's Daily (人民日报, BIASED MEDIA)
+===== People's Daily (人民日报, CCP media)
 
 * https://en.wikipedia.org/wiki/People's_Daily
 * https://zh.wikipedia.org/wiki/人民日报
@@ -7046,10 +7071,10 @@ But older pages just show 404.
 * https://zh.wikipedia.org/wiki/环球时报
 
 [[china-daily]]
-===== China Daily
+===== China Daily (中国日报, CCP media)
 
 * https://en.wikipedia.org/wiki/China_Daily
-* https://zh.wikipedia.org/wiki/孔子学院
+* https://zh.wikipedia.org/wiki/中国日报
 
 English-language propaganda newspaper.
 
@@ -7064,7 +7089,7 @@ Responsible for <<china-watch>>.
 Operates for example: https://en.wikipedia.org/wiki/WCRW which is mentioned at: https://www.bbc.co.uk/news/world-us-canada-46557096 from <<spy>>. WTF, you have to obviously block them!
 
 [[pro-chinese-government-media]]
-===== Pro-Chinese government media (BIASED MEDIA)
+===== Pro-Chinese government media (CCP media)
 
 These might be independent, but they are clearly pro CCP and thus cannot be trusted:
 
