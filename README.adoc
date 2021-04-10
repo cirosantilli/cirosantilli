@@ -18,12 +18,12 @@ Sponsor Ciro at https://cirosantilli.com/sponsor so he can work full time on: ht
 
 Ciro's most important repositories are:
 
-* https://github.com/cirosantilli/linux-kernel-module-cheat[*Linux Kernel Module Cheat*]: the ultimate emulation-based systems programming setup/cheatsheet
 * https://github.com/cirosantilli/china-dictatorship[*China Dictatorship*]: casually trying to destroy the Chinese Communist Party and save the world
-* https://github.com/cirosantilli/x86-bare-metal-examples[*x86 Bare Metal Examples*]: should be merged into Linux Kernel Module Cheat, but lazy
 * https://github.com/cirosantilli/cirodown[*Cirodown*]: the ultimate markup language to write complex scientific books
 * https://github.com/cirosantilli/cirosantilli.github.io[*cirosantilli.github.io*]: the source for https://cirosantilli.com
 * https://github.com/cirosantilli/write-free-science-books-to-get-famous-website[*Write Free Books to Get Famous Website*]: an idea to destroy the University system
+* https://github.com/cirosantilli/linux-kernel-module-cheat[*Linux Kernel Module Cheat*]: the ultimate emulation-based systems programming setup/cheatsheet
+* https://github.com/cirosantilli/x86-bare-metal-examples[*x86 Bare Metal Examples*]: should be merged into Linux Kernel Module Cheat, but lazy
 
 Ciro's most starred repos: https://github.com/search?o=desc&q=user%3Acirosantilli&s=stars&type=Repositories Some are abandoned/merged into other repos as per their description.
 
