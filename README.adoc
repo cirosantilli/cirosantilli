@@ -14,14 +14,14 @@
 
 Ciro Santilli's homepage is: https://cirosantilli.com
 
-Sponsor Ciro at https://cirosantilli.com/sponsor so he can work full time on: https://cirosantilli.com/ourbigbook-org[OurBigBook.com] and on writing amazing university-level natural science and technology tutorials for all ages to revolutionize education. More info at: https://cirosantilli.com/sponsor
+Sponsor Ciro at https://cirosantilli.com/sponsor so he can work full time on: https://OurBigBook.com and on writing amazing university-level natural science and technology tutorials for all ages to revolutionize education. More info at: https://cirosantilli.com/sponsor
 
 Ciro's most important repositories are:
 
 * *China Dictatorship*: https://github.com/cirosantilli/china-dictatorship[]: casually trying to destroy the Chinese Communist Party and save the world
-* *Cirodown* https://github.com/cirosantilli/cirodown[]:
-** the ultimate markup language to write complex scientific books
-** also contains the source code for https://cirosantilli.com/ourbigbook-org[OurBigBook.com] which uses said markup
+* *OurBigBook* https://github.com/cirosantilli/ourbigbook[]:
+** source code for https://OurBigBook.com[]: trying to destroy the current useless university system. Or at least improve it/make it cheaper/less inneficient, more rationale at: https://cirosantilli.com/ourbigbook-com[].
+** also contains the ultimate static wiki generator
 * *cirosantilli.github.io* https://github.com/cirosantilli/cirosantilli.github.io[]: the source for https://cirosantilli.com
 * *Linux Kernel Module Cheat* https://github.com/cirosantilli/linux-kernel-module-cheat[]: the ultimate emulation-based systems programming setup/cheatsheet
 * *x86 Bare Metal Examples* https://github.com/cirosantilli/x86-bare-metal-examples[]: should be merged into Linux Kernel Module Cheat, but lazy
