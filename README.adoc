@@ -38,6 +38,8 @@ And now here is a manual (and therefore out-of-date) copy of https://cirosantill
 
 https://cirosantilli.com/china-dictatorship/programthink
 
+https://github.com/cirosantilli/china-dictatorship/issues/980
+
 image::{china-dictatorship-media-base}/Programthink.jpg[height=800]
 
 **社会主义核心价值观 Core socialist values**
@@ -12966,8 +12968,6 @@ Mentions in other sections:
 
 .Programthink uses https://en.wikipedia.org/wiki/The_Thinker[Rodin's The Thinker sculpture] as its avatar, to encourage people to think for themselves rather than <<censorship,blindly believe the Party>>. https://github.com/programthink/[Source].
 image::{china-dictatorship-media-base}/Programthink.jpg[height=400]
-
-https://www.rfa.org/cantonese/news/arrest-06142021121609.html
 
 [[liu-xiaobo]]
 ==== Liu Xiaobo (刘晓波, 1955-2017)
