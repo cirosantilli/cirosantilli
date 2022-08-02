@@ -34,6 +34,12 @@ And now here is a manual (and therefore out-of-date) copy of https://cirosantill
 
 == China Dictatorship 中国独裁统治
 
+**编程随想 Programthink**
+
+https://cirosantilli.com/china-dictatorship/programthink
+
+image::{china-dictatorship-media-base}/Programthink.jpg[height=800]
+
 **社会主义核心价值观 Core socialist values**
 
 https://cirosantilli.com/china-dictatorship/core-socialist-values
