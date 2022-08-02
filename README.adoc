@@ -12,9 +12,11 @@
 :toclevels: 6
 :toc-title:
 
-Check out: https://OurBigBook.com[] Mission: to live in a world where you can learn university-level mathematics, physics, chemistry, biology and engineering from perfect free open source books that anyone can write to get famous.
+Check out: **[OurBigBook.com](https://cirosantilli.com/ourbigbook-com)**, a personal knowledge base that can publish from local markup both to a multi-user **mind-melding** dynamic website, or as static HTML. Its like **Wikipedia + GitHub + Stack Overflow + Obsidian**. Source code: **https://github.com/ourbigbook/ourbigbook**
 
 Sponsor me: **https://cirosantilli.com/sponsor** 100k USD = I quit my job and work 1 year on edtech + higher ed reform. Status: **~144k / 200k USD**: 2nd year stretch goal open, 1st year starting Summer 2024 after 100k USD was reached with 1000 Monero donation. I'll solve as many STEM courses as I can from a top university to try and kickstart **The Higher Education Revolution**. If I reach 200k USD, then I'll do it for two years instead. That would increase the chances of success: on year 2 I come guns blazing with solved courses and and try to expand.
+
+**Mission**: to live in a world where you can learn university-level mathematics, physics, chemistry, biology and engineering from perfect free open source books that anyone can write to get famous.
 
 Ciro Santilli's homepage is: https://cirosantilli.com
 
