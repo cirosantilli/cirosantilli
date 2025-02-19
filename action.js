@@ -46,7 +46,7 @@ for (const image of images) {
 }
 
 // Prepare reply body.
-const payload = github.context.payload;
+const payload = github.context.payload
 const isComment = payload.comment !== undefined;
 let titleAndBody;
 let author;
@@ -58,11 +58,14 @@ if (isComment) {
   author = payload.issue.user.login;
 }
 const quoteArray = [];
+const noQuoteArray = [];
 for (const line of titleAndBody.split('\n')) {
   // Remove some speical chars to remove at mention spam possibilities.
-  quoteArray.push('> ' + line.replace(/[@#]/g, ""));
+  const l = line.replace(/[@#]/g, "")
+  quoteArray.push('> ' + l);
+  noQuoteArray.push(l);
 }
-const replyBody = `Hi ${author},
+const replyBody = `Hi @${author},
 
 ${quoteArray.join('\n').substring(0,40000)}
 
@@ -76,13 +79,11 @@ if (!isComment) {
   labels = new Set(payload.issue.labels.map(label => label.name));
   newLabels = new Set();
   const shabiWords = [
-    'shabi',
-    'shadiao',
+    '(sha|沙|啥|煞)(b|bi|diao|雕|比|笔)',
     '傻',
-    '沙雕',
     '智障',
     '垃圾',
-    '啥b',
+    '脑瘫',
     'stupid',
   ];
   for (const word of shabiWords) {
@@ -91,12 +92,12 @@ if (!isComment) {
       break;
     }
   }
+  const maWords = '(马|吗|妈|m)'
   const fuckMotherWords = [
     'cnm',
-    '操你妈',
     'fuck.*\\b(mom|mum|mother)\\b',
     '尼玛',
-    '去你吗',
+    '(叼|去|日|操|草)(你|泥|拟)' + maWords,
   ]
   for (const word of fuckMotherWords) {
     if (new RegExp(word, 'i').test(titleAndBody)) {
@@ -104,14 +105,33 @@ if (!isComment) {
       break;
     }
   }
+  for (const word of [
+    '中国共产党万岁',
+    '中华人民共和国万岁',
+  ]) {
+    if (new RegExp(word, 'i').test()) {
+      newLabels.add('i-like-my-dictatorship')
+      break;
+    }
+  }
   const motherDiedWords = [
     'nmsl',
-    '你妈死',
+    '你' + maWords + '死',
     '司马',
   ]
   for (const word of motherDiedWords) {
     if (new RegExp(word, 'i').test(titleAndBody)) {
       newLabels.add('your-mother-died-argument');
+      break;
+    }
+  }
+  const meantToBeUsedWords = [
+    '技术',
+    'github',
+  ]
+  for (const word of meantToBeUsedWords) {
+    if (new RegExp(word, 'i').test(titleAndBody)) {
+      newLabels.add('meant-to-be-used');
       break;
     }
   }
@@ -123,12 +143,16 @@ if (!isComment) {
     '婊子',
     '恶心',
     '操你',
+    '丑',
   ];
   for (const word of shitpostWords) {
     if (new RegExp(word, 'i').test(titleAndBody)) {
       newLabels.add('shitpost');
       break;
     }
+  }
+  if (new RegExp('狗', 'i').test(titleAndBody)) {
+    newLabels.add('you-are-dog-argument');
   }
   if (newLabels.size > 0) {
     newLabels.add('shitpost');
@@ -141,22 +165,76 @@ if (!isComment) {
 
 // Make the request.
 try {
-  console.log(github.context);
   const octokit = new github.getOctokit(process.env.GITHUB_TOKEN);
-  const new_comment = octokit.issues.createComment({
-    owner: 'cirosantilli',
-    repo: payload.repository.name,
-    issue_number: payload.issue.number,
-    body: replyBody,
-  });
-  if (!isComment) {
+  // https://github.com/cirosantilli/china-dictatorship/issues/1330
+  //const new_comment = octokit.issues.createComment({
+  //  owner: payload.repository.owner.login,
+  //  repo: payload.repository.name,
+  //  issue_number: payload.issue.number,
+  //  body: replyBody,
+  //});
+  let html_url
+  if (isComment) {
+    const title = (`@${author}: ` + noQuoteArray.join('\n').replaceAll('\n', ' ')).substring(0, 255)
+    html_url = payload.comment.html_url
+    // https://github.com/cirosantilli/china-dictatorship/issues/1330
+    //const new_issue = octokit.issues.create({
+    //  owner: payload.repository.owner.login,
+    //  repo: payload.repository.name,
+    //  title,
+    //  body: html_url + '\n\n' + replyBody,
+    //})
+  } else {
     // Update labels.
     await octokit.issues.update({
-      owner: 'cirosantilli',
+      owner: payload.repository.owner.login,
       repo: payload.repository.name,
       issue_number: payload.issue.number,
       labels: Array.from([...labels, ...newLabels])
-    });
+    })
+    html_url = payload.issue.html_url
+  }
+  // Get the latest news from duty-machine.
+  {
+    const commits = await octokit.rest.repos.listCommits({
+      owner: 'duty-machine',
+      repo: 'news',
+      per_page: 1,
+    })
+    const sha = commits.data[0].sha
+    const commit = await octokit.rest.repos.getCommit({
+      owner: 'duty-machine',
+      repo: 'news',
+      ref: sha,
+    })
+    let filename
+    for (const file of commit.data.files) {
+      filename = file.filename
+      if (filename.startsWith('articles/')) {
+        break
+      }
+    }
+    const content = await octokit.rest.repos.getContent({
+      owner: 'duty-machine',
+      repo: 'news',
+      ref: sha,
+      path: filename,
+    })
+    contentS =  Buffer.from(content.data.content, 'base64').toString('utf-8')
+    const lines = contentS.split('\n')
+    const titleAndLink = lines[1]
+    const match = titleAndLink.match(/\[([^\]]+)\]\(([^)]+)\)/)
+    const title = match[1]
+    const link = match[2]
+    const body = lines[4]
+    // https://github.com/cirosantilli/china-dictatorship/issues/1330
+    //const new_issue_duty = await octokit.issues.create({
+    //  owner: payload.repository.owner.login,
+    //  repo: payload.repository.name,
+    //  title: title + ' ' + link,
+    //  body: content.data.html_url + '\n\n' + link + '\n\n' + html_url + '\n\n' + body,
+    //  labels: ['duty-machine'],
+    //})
   }
 } catch (error) {
   core.setFailed(error.message);
