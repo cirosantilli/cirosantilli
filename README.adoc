@@ -14,7 +14,9 @@
 
 Check out: **https://cirosantilli.com/ourbigbook-com[OurBigBook.com]**, the best way to publish your scientific knowledge. It is an open source note taking system that can publish from lightweight markup files in your computer to both a multi-user **mind-melding** dynamic website, or as static HTML. It's like **Wikipedia + GitHub + Stack Overflow + Obsidian** mashed up. Source code: **https://github.com/ourbigbook/ourbigbook**
 
-Sponsor me: **https://cirosantilli.com/sponsor** 100k USD = I quit my job and work 1 year on edtech + higher ed reform. Status: **~144k / 200k USD**: 2nd year stretch goal open, 1st year started 1st June 2024 after 100k USD was reached with 1000 Monero donation. I'll solve as many STEM courses as I can from a top university to try and kickstart **The Higher Education Revolution**. If I reach 200k USD, then I'll do it for two years instead. That would increase the chances of success: on year 2 I come guns blazing with solved courses and and try to expand.
+Sponsor me: **https://cirosantilli.com/sponsor** 200k USD = I quit my for 1 more year to work edtech + higher ed reform. Status: **~44k / 200k USD**. The 1st year started 1st June 2024 after 100k USD was reached with 1000 Monero donation. Trying to kickstart **The Higher Education Revolution**. A second year would increase the chances of success: on year 2 I come guns blazing with amazing tech and and try to expand.
+
+<sponsor>[Sponsor me to work on this project]. For \b[200k <USD>] I will quit my job or not get a new job and work on <OurBigBook> full time for a second year to try and kickstart \b[The Higher Education Revolution]. Status: \b[~44k / 200k USD]. At \b[2M USD] I retire and work on open STEM forever. How to donate: <sponsor>{full}.Kk
 
 **Mission**: to live in a world where you can learn university-level mathematics, physics, chemistry, biology and engineering from perfect free open source books that anyone can write to get famous.
 
