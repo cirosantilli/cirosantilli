@@ -3218,22 +3218,22 @@ Well today, you're going to find out what you're made of.
 ____
 
 
-TODO some failed attempts at ASCII art flags:
+successful attempt at ASCII art flag:
 
 ....
 卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐
-卐                                              卐
-卐                  卐                          卐
-卐        卐卐                                  卐
-卐    卐  卐            卐                      卐
-卐    卐卐卐卐卐                                卐
-卐        卐 卐         卐                      卐
-卐    卐卐卐                                    卐
-卐                  卐                          卐
-卐                                              卐
-卐                                              卐
-卐                                              卐
-卐                                              卐
+卐                                      卐
+卐                                      卐
+卐    卐   卐卐卐                        卐
+卐    卐   卐                            卐
+卐    卐卐卐卐卐卐                        卐
+卐        卐   卐                        卐
+卐    卐卐卐   卐                        卐
+卐                                      卐
+卐                                      卐
+卐                                      卐
+卐                                      卐
+卐                                      卐
 卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐卐
 ....
 
