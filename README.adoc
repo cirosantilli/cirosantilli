@@ -14,7 +14,7 @@
 
 Check out: **https://cirosantilli.com/ourbigbook-com[OurBigBook.com]**, the best way to publish your scientific knowledge. It is an open source note taking system that can publish from lightweight markup files in your computer to both a multi-user **mind-melding** dynamic website, or as static HTML. It's like **Wikipedia + GitHub + Stack Overflow + Obsidian** mashed up. Source code: **https://github.com/ourbigbook/ourbigbook**
 
-Sponsor me: **https://cirosantilli.com/sponsor** 1M USD = I quit my for 3 more years to work edtech + higher ed reform. Status: **~44k / 400k USD**. The 1st year started 1st June 2024 after 100k USD was reached with 1000 Monero donation. Trying to kickstart **The Higher Education Revolution**. A second year would increase the chances of success: on year 2 I come guns blazing with amazing tech and and try to expand.
+Sponsor me: **https://cirosantilli.com/sponsor** 1M USD = I quit my for 3 more years to work edtech + higher ed reform. Status: **~44k / 1M USD**. The 1st year started 1st June 2024 after 100k USD was reached with 1000 Monero donation. Trying to kickstart **The Higher Education Revolution**. A second year would increase the chances of success: on year 2 I come guns blazing with amazing tech and and try to expand.
 
 **Mission**: to live in a world where you can learn university-level mathematics, physics, chemistry, biology and engineering from perfect free open source books that anyone can write to get famous.
 
